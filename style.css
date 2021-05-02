@@ -73,7 +73,8 @@ p{
 
 /* Logo */
 .container header h2{
-    flex-basis: 25%;
+    flex-basis: 260px;
+    text-align: center;
     font-size: 2rem;
     cursor: pointer;
 }
@@ -92,7 +93,7 @@ p{
 
 /* Nav Menu */
 .container header .menu{
-    flex-basis: 50%;
+    flex-basis: 61%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
